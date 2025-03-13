@@ -79,5 +79,5 @@ Car-Price-Prediction/
 Feel free to fork this repository, improve the model, and submit pull requests!
 
 ## License  
-This project is open-source and available under the **MIT License**.
+This project is open-source and you are welcome to make changes as per your choice.
 
